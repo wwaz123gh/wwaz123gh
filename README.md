@@ -8,11 +8,5 @@
 七里香 & 爱在西元前 & 断了的弦 & 一路向北 & 彩虹 &
 蒲公英的决定 & 红模仿 & 美人鱼🍏
 
-
-### Github 活跃度
-
-[![](https://activity-graph.herokuapp.com/graph?username=Minori-ty&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=Minori-ty&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Minori-ty&layout=compact&langs_count=6)
+我正在研究如何把照片放在我的主页🤔
+希望我能快点研究出来😡😡😡
