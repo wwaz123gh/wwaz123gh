@@ -1,6 +1,7 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 小薇🍕
+
+      Hello.可以叫我小薇
 
 🍒我热爱的游戏 & 奇异人生 & 光遇 🥑
 
