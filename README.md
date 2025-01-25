@@ -12,7 +12,9 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
+欢迎来到我的社交主页🌚
+我暂时不知道我要写什么
+好了就这样、Bye
 
 
 -   <a href="https://juejin.cn/user/1214304985296439/posts"><code><img height="20" width="50" src="./images/juejin.png"></code></a>：掘金优秀作者，发表了 30 篇技术文章，15万阅读。
