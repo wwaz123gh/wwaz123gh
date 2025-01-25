@@ -1,6 +1,3 @@
-(https://github-readme-stats.vercel.app/api?username=wwaz123gh&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
-
-
 
 🐟Hello欢迎来到我的主页
 
