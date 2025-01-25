@@ -1,8 +1,8 @@
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
-## 前端工程师—天平
+## 小薇🍕
 
-热爱前端、热爱技术。工作经验2年。喜欢参与一些开源项目的讨论。
+我热爱游戏🥝、奇异人生🍊、光遇🍓
 
 ### **社交主页：**
 
